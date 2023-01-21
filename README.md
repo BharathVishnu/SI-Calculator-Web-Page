@@ -1,6 +1,6 @@
 # SI Calculator Web Page
 
-Simple Interest Calculator UI Web Page using basic frontend development tools.
+Simple Interest Calculator UI Web Page using basic FrontEnd Development Tools.
 
 # Requirements
 
