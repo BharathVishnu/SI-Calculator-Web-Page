@@ -7,4 +7,4 @@ Simple Interest Calculator UI Web Page using basic frontend development tools.
 * HTML
 * CSS
 * JavaScript
-* Open []
+* Open [index.html](INDEX.html) file in any editor.
