@@ -2,7 +2,7 @@
 
 Simple Interest Calculator UI Web Page using basic frontend development tools.
 
-#Requirements
+# Requirements
 
 * HTML
 * CSS
