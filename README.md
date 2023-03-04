@@ -15,4 +15,4 @@ Simple Interest Calculator UI Web Page using basic FrontEnd Development Tools.
 
 
 
-![Screenshot](Scrennshot.png)
+![Screenshot.png](Scrennshot.png)
